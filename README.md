@@ -22,7 +22,7 @@ const padding = require("padding-js")
 ## Example
 
 ```
-const padding = require("./padding")
+const padding = require("padding-js")
 
 let s = "too short"
 console.log(s.length)
